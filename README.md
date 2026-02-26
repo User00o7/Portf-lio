@@ -1,2 +1,2 @@
 # Portf-lio
-01
+Construir um projeto de um site para demonstração de portfólio que pode ser adaptado para diversos serviços/produtos.
